@@ -12,7 +12,7 @@ function stabUserPage() {
 }
 
 function buttonStab() {
-alert("🔪;
+alert("🔪");
 }
 
 
