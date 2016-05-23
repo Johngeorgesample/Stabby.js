@@ -12,7 +12,7 @@ function stabUserPage() {
 }
 
 function stabFrenzy(){
-	for(i = 0; i < 100; i++){
+	for(i = 0; i <= 100; i++){
 		console.log("Stab Frenzy!");	
 	}
 }
