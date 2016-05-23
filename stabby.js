@@ -11,8 +11,14 @@ function stabUserPage() {
 	document.write("Stab!");
 }
 
+function stabFrenzy(){
+	for(i = 0; i < 100; i++){
+		console.log("Stab Frenzy!");	
+	}
+}
+
 function buttonStab() {
-alert("🔪");
+	alert("🔪");
 }
 
 
