@@ -4,3 +4,5 @@
 
 
 JS framework for the edgy developer following the SUX (Surprise User eXperience) guideline.
+
+![alt tag](http://rockpride.sru.edu/dev/johngeorge/suxchartsml.png)
