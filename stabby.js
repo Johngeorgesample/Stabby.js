@@ -17,6 +17,13 @@ function stabFrenzy(){
     }
 }
 
+function miniStabFrenzy(){
+    for(var i = 0; i < 50; i++){
+        console.log('Mini Stab Frenzy!');
+    }
+}
+
+
 function buttonStab() {
     alert('🔪');
 }
