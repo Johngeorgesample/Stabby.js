@@ -24,6 +24,13 @@ function miniStabFrenzy(){
 }
 
 
+function massiveStabFrenzy(){
+    for(var i = 0; i < 200; i++){
+        console.log('Massive Stab Frenzy!');
+    }
+}
+
+
 function buttonStab() {
     alert('🔪');
 }
