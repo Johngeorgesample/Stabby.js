@@ -30,6 +30,12 @@ function massiveStabFrenzy(){
     }
 }
 
+function arbitraryStabFrenzy(amount){
+    for(var i = 0; i < amount; i++){
+        console.log('Stab Frenzy!');
+    }
+}
+
 
 function buttonStab() {
     alert('🔪');
