@@ -1,4 +1,3 @@
-
 /*
 stabby.js™ is the brainchild of SRU's Web Communications. This framework is going to revolutionize the Web industry one user at a time. stabby.js™ is one of multiple intended frameworks for the SUX™ (Surprise User eXperience™) developmental concept.
 */
