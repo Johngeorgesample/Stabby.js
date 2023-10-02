@@ -36,6 +36,6 @@ function buttonStab() {
 }
 
 // No fun allowed. More stabbing needed.
-function stabStrings(stringToBeStabbed) {
+function stabStrings(stringToBeStabbed: string) {
     return stringToBeStabbed.replace(/fun/g, '🔪')
 }
